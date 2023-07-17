@@ -19,9 +19,11 @@
                     }, {
                         name: 'github', url: 'https://github.com/fotopixel', icon: 2
                     }, {
-                        name: 'xing', url: 'https://www.xing.com/profile/Matthias_Hempel5', icon: 3
+                        name: 'gitlab', url: 'https://gitlab.com/sev.fotopixel', icon: 3
                     }, {
-                        name: 'linkedin', url: 'https://www.linkedin.com/in/matthias-hempel-62327678/', icon: 4
+                        name: 'xing', url: 'https://www.xing.com/profile/Matthias_Hempel5', icon: 4
+                    }, {
+                        name: 'linkedin', url: 'https://www.linkedin.com/in/matthias-hempel-62327678/', icon: 5
                   }
                 ]
             }
